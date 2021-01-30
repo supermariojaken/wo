@@ -8,4 +8,4 @@ If you want too edit the Asset Server, then click [here](https://github.com/2Epi
 Run the [start.bat](https://github.com/2Epik4u/Wrapper-Online/blob/master/start.bat) to start.
 For macos run [start.sh](https://github.com/2Epik4u/Wrapper-Online/blob/master/start.sh)
 
-ase!
+[video list](https://josephcrosmanplays532.github.io/Wrapper-Online/pages/html/list.html)
